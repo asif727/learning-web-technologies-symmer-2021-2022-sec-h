@@ -1,0 +1,43 @@
+<employment>
+<first>
+      <id>1</id>
+      <name>Jhon Doe</name>
+      <address>
+          <flat></flat>
+          <house>38</house>
+          <road>3</road>
+          <location>Banani</location>
+          <district>Dhaka</district>
+      </address>
+            <department>sales</department>
+            <salary>20000</salary>
+
+<first>
+
+<second>
+    <id>2</id>
+    <name>Mark Zuck</name>
+    <address>
+        <flat>A/1</flat>
+        <house>20</house>
+        <road>18</road>
+        <location>Mirpur</location>
+        <district>Dhaka</district>
+        </address>
+            <department>Accounts</department>
+            <salary>12000</salary>
+</second>
+       
+<third>
+    <id>3</id>
+    <name>Ala Voski</name>
+    <address>
+        <flat></flat>
+        <house>38</house>
+        <road>3</road>
+        <location>Motijheel</location>
+        <district>Dhaka</district>
+        </address>
+        <department>HR</department>
+        <salary>30000</salary>
+</third>
